@@ -5,5 +5,5 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-#resuce_princess_peach
-#puts status
+resuce_princess_peach
+puts status
