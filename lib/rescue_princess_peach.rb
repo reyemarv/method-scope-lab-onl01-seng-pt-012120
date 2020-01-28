@@ -5,5 +5,5 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-resue_princess_peach
+rescue_princess_peach
 puts status
